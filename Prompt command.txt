@@ -1,0 +1,1 @@
+FolderSynchronization.exe --source "" --destination "" --interval 6000 --log ""

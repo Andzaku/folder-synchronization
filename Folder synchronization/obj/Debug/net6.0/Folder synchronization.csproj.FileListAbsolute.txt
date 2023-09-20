@@ -1,0 +1,40 @@
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\bin\Debug\net6.0\Folder synchronization.exe
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\bin\Debug\net6.0\Folder synchronization.deps.json
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\bin\Debug\net6.0\Folder synchronization.runtimeconfig.json
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\bin\Debug\net6.0\Folder synchronization.dll
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\bin\Debug\net6.0\Folder synchronization.pdb
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\obj\Debug\net6.0\Folder synchronization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\obj\Debug\net6.0\Folder synchronization.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\obj\Debug\net6.0\Folder synchronization.AssemblyInfo.cs
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\obj\Debug\net6.0\Folder synchronization.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\obj\Debug\net6.0\Folder synchronization.dll
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\obj\Debug\net6.0\refint\Folder synchronization.dll
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\obj\Debug\net6.0\Folder synchronization.pdb
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\obj\Debug\net6.0\Folder synchronization.genruntimeconfig.cache
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\obj\Debug\net6.0\ref\Folder synchronization.dll
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\obj\Debug\net6.0\Folder synchronization.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\bin\Debug\net6.0\CommandLine.dll
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\bin\Debug\net6.0\Serilog.dll
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\andre\source\repos\Folder synchronization\Folder synchronization\obj\Debug\net6.0\Folder synchronization.csproj.CopyComplete

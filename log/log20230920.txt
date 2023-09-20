@@ -1,0 +1,18 @@
+2023-09-20 00:01:27.695 +02:00 [ERR] CommandLine.MissingRequiredOptionError
+2023-09-20 00:01:27.739 +02:00 [ERR] CommandLine.MissingRequiredOptionError
+2023-09-20 00:01:27.740 +02:00 [ERR] CommandLine.MissingRequiredOptionError
+2023-09-20 00:01:27.741 +02:00 [ERR] CommandLine.MissingRequiredOptionError
+2023-09-20 00:04:04.426 +02:00 [INF] Synchronization started. Source: C:\Users\andre\source\repos\Folder synchronization\source, Destination: C:\Users\andre\source\repos\Folder synchronization\replica
+2023-09-20 00:04:04.433 +02:00 [INF] Copied: C:\Users\andre\source\repos\Folder synchronization\source\First test folder with content\Wheather background.jpg to C:\Users\andre\source\repos\Folder synchronization\replica\First test folder with content\Wheather background.jpg
+2023-09-20 00:04:04.461 +02:00 [INF] Logging to: C:\Users\andre\source\repos\Folder synchronization\log\log.txt
+2023-09-20 00:04:04.462 +02:00 [INF] Synchronization completed
+2023-09-20 00:04:10.446 +02:00 [INF] Synchronization completed
+2023-09-20 00:04:16.432 +02:00 [INF] Synchronization completed
+2023-09-20 00:04:22.437 +02:00 [INF] Synchronization completed
+2023-09-20 01:48:46.438 +02:00 [ERR] CommandLine.MissingRequiredOptionError
+2023-09-20 01:48:46.496 +02:00 [ERR] CommandLine.MissingRequiredOptionError
+2023-09-20 01:48:46.496 +02:00 [ERR] CommandLine.MissingRequiredOptionError
+2023-09-20 01:48:46.497 +02:00 [ERR] CommandLine.MissingRequiredOptionError
+2023-09-20 02:05:15.790 +02:00 [INF] Synchronization started. Source: C:\Users\andre\source\repos\Folder synchronization\source, Destination: C:\Users\andre\source\repos\Folder synchronization\replica
+2023-09-20 02:05:15.824 +02:00 [INF] Synchronization completed
+2023-09-20 02:05:15.827 +02:00 [INF] Logging to: C:\Users\andre\source\repos\Folder synchronization\log\log.txt

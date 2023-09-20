@@ -1,0 +1,19 @@
+Welcome to File Synchronization program.
+
+Main goal of this program is periodical synchronization of 2 folders and saving logs to log file and console.
+Source folder, destination folder, interval of synchronizations and log.txt should be specified by user.
+
+User should follow next steps to perform synchronization:
+
+1. Build the program
+2. Open console/terminal
+3. Change directory to the folder with executable file (.exe)
+4. Use command from "Prompt Command.txt" with replaced values according to user preferences.
+(Quick description: Add source,destination and log paths in quotes, and specify interval of synchronization then copy and paste final command to command prompt or termianl. 
+
+Replace quotes after --source keyword with source folder path, destination folder path in quotes after --destination keyword, and path to log.txt file.)
+5. Press enter
+
+
+
+Thank you for using/testing my Folder Synchronization project!!!
